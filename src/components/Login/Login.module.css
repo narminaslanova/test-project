@@ -35,12 +35,12 @@
 .control input:focus {
   outline: none;
   border-color: #4f005f;
-  background: #f6dbfc;
+  background: #f7effa;
 }
 
 .control.invalid input {
-  border-color: red;
-  background: #fbdada;
+  border-color: rgb(250, 171, 171);
+  background: #f5ebeb;
 }
 
 .actions {
